@@ -21,3 +21,5 @@ This project analyzes Amazon India’s Q2 sales data to uncover key performance 
 ###  Conclusion  
 Amazon should focus on reducing cancellations and expanding sales in Tier-2 regions.  
 
+### Dashboard Snapshot
+[Amazon Dashboard](https://github.com/Success-Edet/amazon-sales-analysis/blob/main/Amazon%20Sales%20Dashboard.jpg?raw=true)
